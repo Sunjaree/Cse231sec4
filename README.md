@@ -7,4 +7,7 @@
  Week 5 lab task uploaded</br>
  Week 6 lab task uploaded</br>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e4ad7bc01a3503a513e1d74a666f6d66803e0989
