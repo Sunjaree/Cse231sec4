@@ -8,6 +8,7 @@
  Week 5 lab task uploaded</br>
  Week 6 lab task uploaded</br>
  Week 7 lab task uploaded</br>
+ Week 8 lab task uploaded</br>
 
 <<<<<<< HEAD
 
